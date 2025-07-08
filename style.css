@@ -1,0 +1,12 @@
+/* style.css */
+body {
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-margin-top: 80px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
